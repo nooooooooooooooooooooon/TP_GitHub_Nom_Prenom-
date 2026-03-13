@@ -1,1 +1,2 @@
 project de gestion de version avec git
+ajout d'une fonctionnalité de connexion
